@@ -1,2 +1,0 @@
-var JM=require('../JSONMatch.js')
-jm=new JM({a:1,b:2});
